@@ -1,0 +1,104 @@
+.inicio{
+    padding-bottom: 10%;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon-inicio{
+    display: flex;
+}
+   .icon-perfil{
+    width: 20px;
+    position: relative;
+    top: 10px;
+    left: 29cm;    
+}
+.icon-logout{
+    width: 25px;
+    position: relative;
+    top: 10px;
+    left: 30cm;
+}
+.back{
+    position: relative;
+    top: 20px;
+    left: 3cm;
+    font-weight: 100;
+}
+.img-back{
+    position: relative;
+    top: 30px;
+    left: 3cm;
+    width: 30px;
+    height: 30px;
+}
+.grupopok{
+    display: flex;
+}
+.img-ditto{
+    position: relative;
+    top: 2cm;
+    left: 9cm;
+    width: 250px;
+}
+.nome{
+    position: relative;
+    font-size: 50px;
+    left: 12cm;
+}
+.numero{
+    position: relative;
+    color: grey;
+    font-weight: 100;
+    font-size: 25px;
+    top: 45px;
+    left: 12.5cm;
+}
+.info{
+    display: inline;
+}
+.info-alt{
+    position: relative;
+    top: 3.5cm;
+    left: 6cm;
+}
+.info-peso{
+    position: relative;
+    top: 3.5cm;
+    left: 6cm;
+}
+.info-gen{
+    position: relative;
+    top: 3.5cm;
+    left: 6cm;
+}
+.info-hab{
+    font-size: 15px;
+    text-align: right;
+    position: relative;
+    top: 2cm;
+    right: 20cm;
+}
+.img-atributos{
+    position: relative;
+    top: -1.5cm;
+    left: 16cm;
+    width: 250px;
+}
+.atributos{
+    position: relative;
+    font-size: 25px;
+    top: 2cm;
+    left: 10cm;
+}
+.ditto{
+    position: relative;
+    top: 3cm;
+    left: 8cm;
+    display: inline;
+    text-align: center;
+    color: snow;
+    background-color: gray;
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+}

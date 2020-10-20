@@ -1,0 +1,164 @@
+.inicio{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon-inicio{
+ display: flex;
+}
+.icon-perfil{
+    width: 20px;
+    position: relative;
+    top: 10px;
+    left: 29cm;    
+}
+.icon-logout{
+    width: 25px;
+    position: relative;
+    top: 10px;
+    left: 30cm;
+}
+.perfil{
+    position: relative;
+    top: 1.75cm;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+img.foto{
+    position: relative;
+    top: 2cm;
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.opcoes{
+    text-align: center;
+    position: relative;
+    top: 2cm;
+    
+}
+.search{
+    position: relative;
+    top: 2cm;
+    left: 3cm;
+}
+.grupopok{
+    display: flex;
+}
+.icon-star{
+    position: relative;
+    top: 20px;
+    left: 2cm;
+    width: 25px;
+    height: 25px;
+}
+.star-bulba{
+    position: relative;
+    top: 20px;
+    left: 3cm;
+    width: 25px;
+    height: 25px;
+}
+.pokemons{
+    display: flex;
+    border: 1px solid red;
+    border-radius: 5px;
+    position: relative;
+    top: 2.5cm;
+    left: 2.5cm;
+    margin: 20px  20px auto ;
+    overflow: hidden;
+    width: 350px;
+    height: 125px;
+}
+.ditto{
+    position: relative;
+    top: 1.5cm;
+    left: -60px;
+    display: inline;
+    text-align: center;
+    color: snow;
+    background-color: gray;
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+}
+.info{
+    display: inline;
+}
+.info-ditto{
+    position: relative;
+    top: 25px;
+    left: 50px;
+    font-size: 20px;
+}
+.img-ditto{
+    position: relative;
+    top: 20px;
+    left: 15px;
+    width: 125px;
+}
+.bulbassauro1{position: relative;
+    top: 1.5cm;
+    left: -1cm;
+    display: inline;
+    text-align: center;
+    color: snow;
+    background-color: green;
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+
+}
+.bulbassauro2{
+    position: relative;
+    top: 1.5cm;
+    left: -0.5cm;
+    display: inline;
+    text-align: center;
+    color: snow;
+    background-color: purple;
+    border-radius: 5px;
+    width: 80px;
+    height: 20px;
+
+}
+.info-bulbassauro{
+    display: flex;
+    position: relative;
+    top: 10px;
+    left: 50px;
+    font-size: 20px;
+}
+.img-bulbassauro{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    width: 100px;
+}
+.paginas{
+    background-color: red;
+    color: white;
+    border-radius: 100%;    
+    position: relative;
+    top: 2cm;
+    left: -15cm;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.num-pag{
+    position: relative;
+    top: 2cm;
+    left: -15cm;
+    color: red;
+    width: 20px;
+    height: 20px;
+    margin: 200px 5px 200px;
+}
